@@ -10,5 +10,6 @@ int main()
     printf("x er value- %.2lf\n",x);
     printf("x er value- %.2lf\n",*ptr);
     printf("x er value- %.2lf\n",*ptr2);
+    
     return 0;
 }
